@@ -1,4 +1,4 @@
-package pack;
+
 // UNFORTUNETLY WE CANT USE CLASSES IN THIS ASSIGNMENT SO THE CODE IS LESS CLEAN THAN I WANTED IT TO BE 
 import pack.Rook;
 import pack.Pawn;
